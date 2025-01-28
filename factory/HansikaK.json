@@ -1,0 +1,9 @@
+{
+	"name": "HansikaK",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "80b6237f-7afc-4c36-9f7e-8be240f456b7",
+		"tenantId": "48aecb26-c09e-4787-863c-99bc09b54a2b"
+	}
+}
